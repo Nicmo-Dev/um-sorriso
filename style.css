@@ -13,7 +13,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  min-height: 100vh;
   text-align: center;
 }
 
@@ -37,7 +37,8 @@ button:hover {
 }
 
 .meme {
-  max-width: 90%;
-  max-height: 90vh;
+  width: 100%;
+  max-width: 600px;
+  height: auto;
   border-radius: 12px;
 }
