@@ -5,7 +5,7 @@ body {
 }
 
 .container {
-  padding: 20px;
+  padding: 35px;
 }
 
 .center {
@@ -18,13 +18,13 @@ body {
 }
 
 .intro-text {
-  font-size: 30px;
-  margin-bottom: 32px;
+  font-size: 40px;
+  margin-bottom: 42px;
 }
 
 button {
-  padding: 20px 40px;
-  font-size: 26px;
+  padding: 40px 80px;
+  font-size: 46px;
   border: none;
   border-radius: 6px;
   background-color: #4CAF50;
